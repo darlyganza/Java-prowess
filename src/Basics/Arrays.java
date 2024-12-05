@@ -7,6 +7,10 @@ public class Arrays {
 		
 		int[] numbers = {1,2,3,4,45,5,66,9}; //curly braces used to show arrays
 		System.out.println(numbers[3]);
+		
+		for (int i=1;i<numbers.length;i++) {
+			System.out.println(numbers[i]);
+		}
 	}
 
 }
