@@ -14,5 +14,7 @@ public class Object {
 	//this means that myString object referencing varible will now be empty (i.e null);
 	
 	System.out.println(myString);
+	
+	//when objects have no reference variables they are deleted i.e : Garbage collection
 	}
 }
